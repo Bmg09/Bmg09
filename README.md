@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Bmg09
-- 👀 I’m interested in ML and Data analysis 
-- 🌱 I’m currently learning Python,Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/bikram-ghosh-380959182/
 
 <!---
